@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+        background-image: linear-gradient(to right top,pink,blue);
+    
+}
+input {
+    width: 80%;
+    border-radius: 15px;
+}
